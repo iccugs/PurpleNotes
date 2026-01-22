@@ -1,0 +1,8 @@
+## Interface: 120000
+## Title: PurpleNotes
+## Notes: Simple in-game notepad (transparent black with purple text)
+## Author: You
+## Version: 0.1
+## SavedVariables: PurpleNotesDB
+
+PurpleNotes.lua

@@ -1,10 +1,46 @@
 # PurpleNotes
-World of Warcraft note taking add-on.
 
-All this add-on does is make a transparent resizable window that you can write saved notes in. Right now the font color is purple and you can't change it within the game.
+A feature-rich World of Warcraft note-taking addon with multi-note support and customizable titles.
 
-The commands /pn and /purplenotes opens the note taking window.
+## Features
 
-For the sake of brevity, I'm simply uploading this before I add all the bells and whistles to this add-on.
+- **Multiple Notes**: Create and manage unlimited notes with navigation arrows
+- **Custom Titles**: Name each note with editable titles in the title bar
+- **Draggable & Resizable**: Fully movable and resizable window that remembers position and size
+- **Menu System**: Access note selection and management through the integrated menu
+- **Delete Functionality**: Remove unwanted notes with confirmation prompts (requires at least one note)
+- **Auto-Save**: Notes are automatically saved as you type
+- **Purple Text**: Distinctive purple text on a semi-transparent black background
+- **Data Migration**: Automatically migrates data from older single-note versions
 
-As of right now, this absolutely works for WoW Midnight Pre-Patch 12.0.0 (1-22-2026).
+## Commands
+
+- `/pn` or `/purplenotes` - Toggle the notes window
+- `/pn reset` or `/purplenotes reset` - Reset all notes and settings (with confirmation)
+
+## Usage
+
+1. Use `/pn` to open the notes window
+2. Click the menu button (top-left) to access note selection
+3. Use the arrow buttons to navigate between notes
+4. Click on a note title to edit it
+5. Click the right arrow when viewing the last note to create a new one
+6. Delete notes using the red X button in the note list
+
+## Compatibility
+
+Tested and working with **World of Warcraft Midnight Pre-Patch 12.0.0** (Interface 120000)
+
+## Installation
+
+1. Download the latest release
+2. Extract the `PurpleNotes` folder to your `World of Warcraft\_retail_\Interface\AddOns\` directory
+3. Restart WoW or reload your UI with `/reload`
+
+## License
+
+See [LICENSE](LICENSE) file for details.
+
+## Author
+
+Paradox.Actual

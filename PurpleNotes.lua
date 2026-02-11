@@ -1,4 +1,6 @@
--- PurpleNotes - simple notepad with a draggable, resizable frame.
+-- PurpleNotes v0.3
+-- Simple notepad with a draggable, resizable frame.
+
 PurpleNotesDB = PurpleNotesDB or {}
 
 -- Migrate old single-note format to multi-note format

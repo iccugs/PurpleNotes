@@ -2,6 +2,12 @@
 
 All notable changes to PurpleNotes will be documented in this file.
 
+## [0.3] - 2026-02-10
+
+- **Notes**: No major refactoring was implemented (none of the code that you care about was changed).
+- **Updates**: TOC `Interface` line was changed from 120000 to 120001. Version was bumped from 0.2 to 0.3 to adhere to CurseForge standards so users can update the add-on within the CurseForge app and eliminate "app is out-of-date" type errors.
+- **Testing**: Item lock functionality was tested in the new WoW Retail version 12.0.1 and works as intended.
+
 ## [0.2] - 2026-01-23
 
 ### Added

@@ -1,0 +1,19 @@
+# Deployment scripts
+*.bat
+*.sh
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor/IDE files
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# Backup files
+*.bak
+*.tmp

@@ -37,6 +37,10 @@ Tested and working with **World of Warcraft Midnight Pre-Patch 12.0.0** (Interfa
 2. Extract the `PurpleNotes` folder to your `World of Warcraft\_retail_\Interface\AddOns\` directory
 3. Restart WoW or reload your UI with `/reload`
 
+## Changelog
+
+See [CHANGELOG.md](CHANGELOG.md) for detailed version history and technical changes.
+
 ## License
 
 See [LICENSE](LICENSE) file for details.

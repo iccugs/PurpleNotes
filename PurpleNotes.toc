@@ -1,8 +1,9 @@
-## Interface: 120000
+## Interface: 120001
 ## Title: PurpleNotes
 ## Notes: Feature-rich in-game notepad with multi-note support, custom titles, and navigation
 ## Author: Paradox.Actual
-## Version: 0.2
+## Version: 0.3
+## IconTexture: Interface\Icons\inv_misc_notefolded1b
 ## SavedVariables: PurpleNotesDB
 
 PurpleNotes.lua
